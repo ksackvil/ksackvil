@@ -12,4 +12,4 @@
 
 <img align="left" alt="ksackvil's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ksackvil&show_icons=true&hide_border=true" />
 
-<img align="left" alt="ksackvil's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksackvil&show_icons=true&hide_border=true" />
+<img align="left" alt="ksackvil's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs?username=ksackvil&show_icons=true&hide_border=true&layout=compact" />
