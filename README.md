@@ -8,5 +8,4 @@
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on [Canacompost](https://github.com/Canacompost-Systems-Inc/microcontroller)  
 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/ksackvil/)  
